@@ -1,0 +1,28 @@
+_repo: Nouveau-Glossaire-Genevois-tome-2-2_42088
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42088-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Humbert, Jean
+    birthdate: 1792
+    deathdate: 1851
+    gutenberg_agent_id: '41393'
+    url: http://www.gutenberg.org/2009/agents/41393
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2013-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42088'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Dialects -- Switzerland'
+- !lcc 'PC'
+- !lcsh 'French language -- Dialects -- Dictionaries'
+title: Nouveau Glossaire Genevois, tome 2/2
+url: http://www.gutenberg.org/ebooks/42088
